@@ -1,0 +1,25 @@
+_repo: The-Progressive-Democracy-of-James-M-Cox_5639
+creator:
+  author:
+    agent_name: Morris, Charles E. (Charles Eugene)
+    alias: Morris, Charles Eugene
+    birthdate: 1884
+    gutenberg_agent_id: '1825'
+    url: http://www.gutenberg.org/2009/agents/1825
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5639'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cox, James M. (James Middleton), 1870-1957'
+- !lcsh 'Politicians -- United States -- Biography'
+- !lcsh 'Legislators -- United States -- Biography'
+- !lcc 'JK'
+- !lcsh 'United States -- Politics and government -- 1913-1921'
+title: The Progressive Democracy of James M. Cox
+url: http://www.gutenberg.org/ebooks/5639
