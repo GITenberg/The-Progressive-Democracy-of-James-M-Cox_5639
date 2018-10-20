@@ -1,5 +1,5 @@
 _repo: The-Progressive-Democracy-of-James-M-Cox_5639
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'Legislators -- United States -- Biography'
 - !lcc 'JK'
 - !lcsh 'United States -- Politics and government -- 1913-1921'
+- GITenberg
 title: The Progressive Democracy of James M. Cox
 url: http://www.gutenberg.org/ebooks/5639
